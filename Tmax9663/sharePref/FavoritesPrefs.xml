@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <set name="favorite_bookmarks">
+        <string>JEN Hotel</string>
+        <string>KTMB Butterworth Station</string>
+        <string>Hard Rock Hotel Penang</string>
+        <string>Design Village Outlet Mall</string>
+        <string>IKEA Batu Kawan</string>
+        <string>Tropicana Bay Residences</string>
+        <string>Cititel Penang</string>
+        <string>Komplex Bukit Jambu</string>
+        <string>DoubleTree Resort by Hilton Penang</string>
+        <string>ESCAPE Penang</string>
+        <string>Penang Street Art</string>
+        <string>Gurney Plaza</string>
+        <string>Kulim Central Shopping Mall</string>
+        <string>The Stone</string>
+        <string>Pejabat KWSP Nibong Tebal</string>
+        <string>Straits Quay</string>
+        <string>Sri Aman Food Court</string>
+        <string>ArteS Condominium</string>
+        <string>Amari SPICE Penang</string>
+        <string>Eastern &amp; Oriental Hotel, Penang</string>
+        <string>New World Park</string>
+        <string>Queensbay Mall</string>
+        <string>Swettenham Pier Penang</string>
+        <string>Penang Hill</string>
+        <string>Butterworth Penang Sentral</string>
+        <string>Penang International Airport</string>
+        <string>Chew Jetty</string>
+        <string>Kek Lok Si Temple</string>
+        <string>Courtyard Penang</string>
+        <string>Taman Alor Vista</string>
+        <string>Passion Paradise Hostel Batu Kawan</string>
+    </set>
+</map>

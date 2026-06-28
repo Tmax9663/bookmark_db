@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <long name="gmm_first_launch_timestamp_seconds" value="1769584326" />
+    <string name="baseEventId">xbZ5acj2JLeTqbIN3Y2rvA0</string>
+    <string name="cohort">1199</string>
+    <int name="sequenceId" value="908635866" />
+    <int name="terms_accepted_kr" value="1" />
+    <string name="client_parameters_update_source">GWS</string>
+    <string name="cy">MY</string>
+    <int name="settings_version" value="18" />
+    <string name="sticky_server_version_metadata">CgoIBBD7iMrRBhgB&#10;    </string>
+    <string name="previousClientEventId">xbZ5acj2JLeTqbIN3Y2rvA0:908635865</string>
+    <string name="account_state">Et8BEtwBNTMyPVFaVkJpNzg3N2llem90WmRGX1FTOUxlQV9rVzhRTkR6eENDS29ZaU9LSXhOa19U&#10;MFFCeDdQWFpWTTlSYlg5b25wOUFsZXAtcGVzM2FuOXFzSTluZTd1T0JwN2dtUWR2bkptY182SV8y&#10;WXp6LTd2R05Tb1ktS3llZW10WXliS0NtbTNSMkNzbnp3cTJ2ck1ndXY3Y3h4WFpic1BLQjdDQUVw&#10;bTNMRkkxSkNFUXliaGVXQi1sODFuVVZUYjRqTkZyMFVhOUJHSDkzSVR4R0FVV0JiRXJKRzJOYg==&#10;    </string>
+    <int name="activationId" value="1" />
+    <string name="server_version_metadata">CgoIBBD7iMrRBhgBCggIBhC6rcrRBgoICAMQoePP0QYKCAgBEPb5pdEG&#10;    </string>
+</map>
